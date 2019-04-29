@@ -1,5 +1,5 @@
 # RED-PITAYA-125-14
-Educational VHDL - BARE METAL Project 
+Educational Project 
 
 Very simple (...but usefull to understand the IP hierarchy) implementation of an AXI bus connected IP, in VHDL code (VIVADO 2018.2 IDE and 
 related SDK), in Xilinx Zinq 7000 SoC (FPGA and double dual-core ARM cortex A9) based board.
